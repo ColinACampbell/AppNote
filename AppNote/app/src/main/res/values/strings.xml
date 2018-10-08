@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App Note</string>
+    <string name="add_note"> Add Note</string>
+    <string name="settings_help">
+        To add a note you click the "plus" icon in the action bar.
+        To remove a note you simply click on the note you wish to remove.
+        Click the refresh button in the  menu to see the note.
+    </string>
+</resources>

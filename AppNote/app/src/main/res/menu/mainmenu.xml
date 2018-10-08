@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/addNoteMenu"
+        android:icon="@android:drawable/ic_menu_add"
+        android:showAsAction="always"
+        android:title="@string/add_note" />
+    <item
+        android:id="@+id/refreshMenu"
+        android:icon="@android:drawable/ic_menu_recent_history"
+        android:showAsAction="ifRoom"
+        android:title="Refresh" />
+    <item
+        android:id="@+id/settingsMenu"
+        android:icon="@android:drawable/ic_menu_help"
+        android:showAsAction="always"
+        android:title="Help" />
+</menu>
